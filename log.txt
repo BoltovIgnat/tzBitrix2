@@ -1,0 +1,450 @@
+Host: localhost
+Date: 2018-03-25 13:14:13
+Module: 
+$arProps = Array
+(
+    [MARKA] => Array
+        (
+            [ID] => 46
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Марка
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => MARKA
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => S
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2052
+            [VALUE] => 1
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => 1
+            [~DESCRIPTION] => 
+            [~NAME] => Марка
+            [~DEFAULT_VALUE] => 
+        )
+
+    [MODEL] => Array
+        (
+            [ID] => 47
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Модель 
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => MODEL
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => S
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2053
+            [VALUE] => 1
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => 1
+            [~DESCRIPTION] => 
+            [~NAME] => Модель 
+            [~DEFAULT_VALUE] => 
+        )
+
+    [PHOTO] => Array
+        (
+            [ID] => 48
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Фото 
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => PHOTO
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => F
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2054
+            [VALUE] => 945
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => 945
+            [~DESCRIPTION] => 
+            [~NAME] => Фото 
+            [~DEFAULT_VALUE] => 
+        )
+
+)
+
+    iBlockEventsIB::OnAfterIBlockSectionUpdateHandler < call_user_func_array < ExecuteModuleEventEx < CAllIBlockSection::Update < require
+	C:\wamp64\www\bitrix\modules\main\classes\general\module.php:475
+	C:\wamp64\www\bitrix\modules\iblock\classes\general\iblocksection.php:1462
+	C:\wamp64\www\bitrix\modules\iblock\admin\iblock_section_edit.php:326
+	C:\wamp64\www\bitrix\admin\iblock_section_edit.php:1
+----------
+Host: localhost
+Date: 2018-03-25 13:14:13
+Module: 
+$arProps = Array
+(
+    [MARKA] => Array
+        (
+            [ID] => 46
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Марка
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => MARKA
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => S
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2055
+            [VALUE] => Марка2
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => Марка2
+            [~DESCRIPTION] => 
+            [~NAME] => Марка
+            [~DEFAULT_VALUE] => 
+        )
+
+    [MODEL] => Array
+        (
+            [ID] => 47
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Модель 
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => MODEL
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => S
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2056
+            [VALUE] => 2
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => 2
+            [~DESCRIPTION] => 
+            [~NAME] => Модель 
+            [~DEFAULT_VALUE] => 
+        )
+
+    [PHOTO] => Array
+        (
+            [ID] => 48
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Фото 
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => PHOTO
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => F
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2057
+            [VALUE] => 946
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => 946
+            [~DESCRIPTION] => 
+            [~NAME] => Фото 
+            [~DEFAULT_VALUE] => 
+        )
+
+)
+
+    iBlockEventsIB::OnAfterIBlockSectionUpdateHandler < call_user_func_array < ExecuteModuleEventEx < CAllIBlockSection::Update < require
+	C:\wamp64\www\bitrix\modules\main\classes\general\module.php:475
+	C:\wamp64\www\bitrix\modules\iblock\classes\general\iblocksection.php:1462
+	C:\wamp64\www\bitrix\modules\iblock\admin\iblock_section_edit.php:326
+	C:\wamp64\www\bitrix\admin\iblock_section_edit.php:1
+----------
+Host: localhost
+Date: 2018-03-25 13:14:13
+Module: 
+$arProps = Array
+(
+    [MARKA] => Array
+        (
+            [ID] => 46
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Марка
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => MARKA
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => S
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2058
+            [VALUE] => Марка3
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => Марка3
+            [~DESCRIPTION] => 
+            [~NAME] => Марка
+            [~DEFAULT_VALUE] => 
+        )
+
+    [MODEL] => Array
+        (
+            [ID] => 47
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Модель 
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => MODEL
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => S
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2059
+            [VALUE] => 3
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => 3
+            [~DESCRIPTION] => 
+            [~NAME] => Модель 
+            [~DEFAULT_VALUE] => 
+        )
+
+    [PHOTO] => Array
+        (
+            [ID] => 48
+            [TIMESTAMP_X] => 2018-03-25 14:34:28
+            [IBLOCK_ID] => 4
+            [NAME] => Фото 
+            [ACTIVE] => Y
+            [SORT] => 500
+            [CODE] => PHOTO
+            [DEFAULT_VALUE] => 
+            [PROPERTY_TYPE] => F
+            [ROW_COUNT] => 1
+            [COL_COUNT] => 30
+            [LIST_TYPE] => L
+            [MULTIPLE] => N
+            [XML_ID] => 
+            [FILE_TYPE] => 
+            [MULTIPLE_CNT] => 5
+            [TMP_ID] => 
+            [LINK_IBLOCK_ID] => 0
+            [WITH_DESCRIPTION] => N
+            [SEARCHABLE] => N
+            [FILTRABLE] => N
+            [IS_REQUIRED] => N
+            [VERSION] => 1
+            [USER_TYPE] => 
+            [USER_TYPE_SETTINGS] => 
+            [HINT] => 
+            [PROPERTY_VALUE_ID] => 2060
+            [VALUE] => 947
+            [DESCRIPTION] => 
+            [VALUE_ENUM] => 
+            [VALUE_XML_ID] => 
+            [VALUE_SORT] => 
+            [~VALUE] => 947
+            [~DESCRIPTION] => 
+            [~NAME] => Фото 
+            [~DEFAULT_VALUE] => 
+        )
+
+)
+
+    iBlockEventsIB::OnAfterIBlockSectionUpdateHandler < call_user_func_array < ExecuteModuleEventEx < CAllIBlockSection::Update < require
+	C:\wamp64\www\bitrix\modules\main\classes\general\module.php:475
+	C:\wamp64\www\bitrix\modules\iblock\classes\general\iblocksection.php:1462
+	C:\wamp64\www\bitrix\modules\iblock\admin\iblock_section_edit.php:326
+	C:\wamp64\www\bitrix\admin\iblock_section_edit.php:1
+----------
+Host: localhost
+Date: 2018-03-25 13:14:13
+Module: 
+$arFields = Array
+(
+    [ACTIVE] => Y
+    [IBLOCK_SECTION_ID] => 
+    [NAME] => Тестовый раздел
+    [SORT] => 500
+    [CODE] => 
+    [DESCRIPTION] => 1
+    [DESCRIPTION_TYPE] => text
+    [IPROPERTY_TEMPLATES] => Array
+        (
+            [SECTION_META_TITLE] => 
+            [SECTION_META_KEYWORDS] => 
+            [SECTION_META_DESCRIPTION] => 
+            [SECTION_PAGE_TITLE] => 
+            [ELEMENT_META_TITLE] => 
+            [ELEMENT_META_KEYWORDS] => 
+            [ELEMENT_META_DESCRIPTION] => 
+            [ELEMENT_PAGE_TITLE] => 
+            [SECTION_PICTURE_FILE_ALT] => 
+            [SECTION_PICTURE_FILE_TITLE] => 
+            [SECTION_PICTURE_FILE_NAME] => 
+            [SECTION_DETAIL_PICTURE_FILE_ALT] => 
+            [SECTION_DETAIL_PICTURE_FILE_TITLE] => 
+            [SECTION_DETAIL_PICTURE_FILE_NAME] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_ALT] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_TITLE] => 
+            [ELEMENT_PREVIEW_PICTURE_FILE_NAME] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_ALT] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_TITLE] => 
+            [ELEMENT_DETAIL_PICTURE_FILE_NAME] => 
+        )
+
+    [UF_ARCHIVE] => 1
+    [SEARCHABLE_CONTENT] => ТЕСТОВЫЙ РАЗДЕЛ
+1
+    [MODIFIED_BY] => 1
+    [IBLOCK_ID] => 4
+    [ID] => 16
+    [RESULT] => 1
+)
+
+    iBlockEventsIB::OnAfterIBlockSectionUpdateHandler < call_user_func_array < ExecuteModuleEventEx < CAllIBlockSection::Update < require
+	C:\wamp64\www\bitrix\modules\main\classes\general\module.php:475
+	C:\wamp64\www\bitrix\modules\iblock\classes\general\iblocksection.php:1462
+	C:\wamp64\www\bitrix\modules\iblock\admin\iblock_section_edit.php:326
+	C:\wamp64\www\bitrix\admin\iblock_section_edit.php:1
+----------
